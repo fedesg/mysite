@@ -1,0 +1,25 @@
+baseURL: 'http://localhost:1313/'
+languageCode: 'en-us'
+title: 'fedesg'
+# theme: "papermod"
+
+params:
+  profileMode:
+    enabled: true
+    title: "Federico" # optional default will be site title
+    subtitle: "DevOps"
+    imageUrl: "https://avatars.githubusercontent.com/u/6987953?v=4" # optional
+    imageTitle: "@fedesg" # optional
+    imageWidth: 120 # custom size
+    imageHeight: 120 # custom size
+    buttons:
+      - name: Archive
+        url: "/archive"
+      - name: Github
+        url: "https://github.com/"
+
+  socialIcons: # optional
+    - name: "<platform>"
+      url: "<link>"
+    - name: "<platform 2>"
+      url: "<link2>"
