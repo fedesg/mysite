@@ -1,13 +1,13 @@
 baseURL: 'http://localhost:1313/'
 languageCode: 'en-us'
 title: 'fedesg'
-# theme: "papermod"
+theme: "papermod"
 
 params:
   profileMode:
     enabled: true
     title: "Federico" # optional default will be site title
-    subtitle: "DevOps"
+    subtitle: "Software Engineer. DevOps always willing to learn, with a focus on cloud adoption, automation, cost optimization. Atlassian consultan. Crypto & Web3 enthusiast."
     imageUrl: "https://avatars.githubusercontent.com/u/6987953?v=4" # optional
     imageTitle: "@fedesg" # optional
     imageWidth: 120 # custom size

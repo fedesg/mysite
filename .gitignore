@@ -1,5 +1,5 @@
 # Hugo
-# .hugo_build.lock
+.hugo_build.lock
 resources
 public/
 
