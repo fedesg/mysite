@@ -2,24 +2,96 @@ baseURL: 'http://localhost:1313/'
 languageCode: 'en-us'
 title: 'fedesg'
 theme: "papermod"
+enableEmoji: true
+
+languages:
+  en:
+    languageName: "en"
+    weight: 1
+    taxonomies:
+      category: categories
+      tag: tags
+      series: series
+    menu:
+      main:
+        - identifier: posts
+          name: Posts
+          url: /posts
+          weight: 10
+        - identifier: tags
+          name: Tags
+          url: /tags
+          weight: 20
+        - identifier: about
+          name: About
+          url: /about
+          weight: 30
+
+  es:
+    languageName: "es"
+    contentDir: content/es
+    weight: 2
+    taxonomies:
+      category: categories
+      tag: tags
+      series: series
+    menu:
+      main:
+        - identifier: posts
+          name: Posteos
+          url: /posts
+          weight: 10
+        - identifier: tags
+          name: Etiquetas
+          url: /tags
+          weight: 20
+        - identifier: about
+          name: Acerca
+          url: /about
+          weight: 30
+  pt:
+    languageName: "pt"
+    contentDir: content/pt
+    weight: 3
+    taxonomies:
+      category: categories
+      tag: tags
+      series: series
+    menu:
+      main:
+        - identifier: posts
+          name: Postagens
+          url: /posts/
+          weight: 10
+        - identifier: tags
+          name: Tags
+          url: /tags/
+          weight: 20
+        - identifier: about
+          name: Sobre
+          url: /about/
+          weight: 30
 
 params:
+  displayFullLangName: true
   profileMode:
     enabled: true
     title: "Federico" # optional default will be site title
-    subtitle: "Software Engineer. DevOps always willing to learn, with a focus on cloud adoption, automation, cost optimization. Atlassian consultan. Crypto & Web3 enthusiast."
+    subtitle: "DevOps | Atlassian consultan | AI, Crypto & Web3 enthusiast."
     imageUrl: "https://avatars.githubusercontent.com/u/6987953?v=4" # optional
     imageTitle: "@fedesg" # optional
     imageWidth: 120 # custom size
     imageHeight: 120 # custom size
-    buttons:
-      - name: Archive
-        url: "/archive"
-      - name: Github
-        url: "https://github.com/"
+    # buttons:
+    #   - name: Archive
+    #     url: "/archive"
+    #   - name: Github
+    #     url: "https://github.com/"
 
   socialIcons: # optional
-    - name: "<platform>"
-      url: "<link>"
-    - name: "<platform 2>"
-      url: "<link2>"
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/fedesg"
+    - name: "github"
+      url: "https://github.com/fedesg"
+    - name: "x"
+      url: "https://x.com/fedesg"
