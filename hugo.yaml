@@ -14,18 +14,22 @@ languages:
       series: series
     menu:
       main:
-        - identifier: posts
-          name: Posts
-          url: /posts
+        - identifier: home
+          name: Home
+          url: /
           weight: 10
-        - identifier: tags
-          name: Tags
-          url: /tags
-          weight: 20
         - identifier: about
           name: About
           url: /about
+          weight: 20
+        - identifier: devops
+          name: DevOps
+          url: /devops
           weight: 30
+        - identifier: atlassian
+          name: Atlassian Consultant
+          url: /atlassian
+          weight: 40
 
   es:
     languageName: "es"
@@ -37,18 +41,22 @@ languages:
       series: series
     menu:
       main:
-        - identifier: posts
-          name: Posteos
-          url: /posts
+        - identifier: home
+          name: Inicio
+          url: /
           weight: 10
-        - identifier: tags
-          name: Etiquetas
-          url: /tags
-          weight: 20
         - identifier: about
           name: Acerca
           url: /about
+          weight: 20
+        - identifier: devops
+          name: DevOps
+          url: /devops
           weight: 30
+        - identifier: atlassian
+          name: Consultor Atlassian
+          url: /atlassian
+          weight: 40
   pt:
     languageName: "pt"
     contentDir: content/pt
@@ -59,25 +67,29 @@ languages:
       series: series
     menu:
       main:
-        - identifier: posts
-          name: Postagens
-          url: /posts/
+        - identifier: home
+          name: Início
+          url: /
           weight: 10
-        - identifier: tags
-          name: Tags
-          url: /tags/
-          weight: 20
         - identifier: about
           name: Sobre
-          url: /about/
+          url: /about
+          weight: 20
+        - identifier: devops
+          name: DevOps
+          url: /devops
           weight: 30
+        - identifier: atlassian
+          name: Consultor Atlassian
+          url: /atlassian
+          weight: 40
 
 params:
   displayFullLangName: true
   profileMode:
     enabled: true
     title: "Federico" # optional default will be site title
-    subtitle: "DevOps | Atlassian consultan | AI, Crypto & Web3 enthusiast."
+    subtitle: "DevOps & SRE | Atlassian Consultant | AI, Crypto & Web3 enthusiast."
     imageUrl: "https://avatars.githubusercontent.com/u/6987953?v=4" # optional
     imageTitle: "@fedesg" # optional
     imageWidth: 120 # custom size
@@ -95,3 +107,5 @@ params:
       url: "https://github.com/fedesg"
     - name: "x"
       url: "https://x.com/fedesg"
+    - name: "email"
+      url: "mailto:fedesg@gmail.com"

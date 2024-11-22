@@ -1,7 +1,7 @@
 # Hugo
 .hugo_build.lock
 resources
-public/
+public
 
 # Mac
 .DS_Store
