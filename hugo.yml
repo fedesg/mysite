@@ -88,7 +88,7 @@ params:
   displayFullLangName: true
   profileMode:
     enabled: true
-    title: "Federico" # optional default will be site title
+    title: "Fede" # optional default will be site title
     subtitle: "DevOps & SRE | Atlassian Consultant | AI, Crypto & Web3 enthusiast."
     imageUrl: "https://avatars.githubusercontent.com/u/6987953?v=4" # optional
     imageTitle: "@fedesg" # optional
