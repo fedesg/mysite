@@ -1,0 +1,54 @@
+name: Deploy Hugo Site to GitHub Pages
+
+# Trigger deployment on push to the main branch or manual dispatch
+on:
+  push:
+    branches:
+      - main
+      - develop
+  workflow_dispatch:
+
+# Permissions required to deploy to GitHub Pages
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+# Concurrency settings to prevent overlapping deployments
+concurrency:
+  group: "deploy-pages"
+  cancel-in-progress: true
+
+jobs:
+  # Build and deploy Hugo site
+  build-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Step 1: Checkout the repository
+      - name: Checkout Code
+        uses: actions/checkout@v3
+        with:
+          submodules: true # Ensure submodules are initialized and checked out
+
+      # Step 2: Update Submodule to Latest Commit
+      - name: Update Submodule to Latest Commit
+        run: git submodule update --remote --merge
+
+      # Step 3: Install Hugo
+      - name: Install Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: 'latest'
+
+      # Step 4: Build the Hugo Site
+      - name: Build Site
+        run: |
+          hugo --minify --baseURL https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}
+
+      # Step 5: Deploy to GitHub Pages
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
