@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>fedesg</title><link>https://fedesg.github.io/mysite/</link><description>Recent content on fedesg</description><generator>Hugo -- 0.139.2</generator><language>en</language><atom:link href="https://fedesg.github.io/mysite/index.xml" rel="self" type="application/rss+xml"/><item><title>About</title><link>https://fedesg.github.io/mysite/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://fedesg.github.io/mysite/about/</guid><description>&lt;h3 id="hola--im-fede">Hola 👋, I&amp;rsquo;m Fede&lt;/h3>
+&lt;p>An Argentinian currently based in Dubai, working as a &lt;strong>DevOps &amp;amp; SRE Engineer&lt;/strong>. I thrive on continuous learning and focus on areas like &lt;strong>cloud adoption&lt;/strong>, &lt;strong>observability&lt;/strong>, and &lt;strong>tool administration&lt;/strong>. As an &lt;strong>Atlassian consultant&lt;/strong>, I specialize in &lt;strong>migrations&lt;/strong>, &lt;strong>automation&lt;/strong> and &lt;strong>workflow configuration&lt;/strong>. I also enjoy exploring &lt;strong>AI applications&lt;/strong>, &lt;strong>prompt engineering&lt;/strong>, &lt;strong>crypto&lt;/strong>, and &lt;strong>Web3&lt;/strong>, driven by curiosity and the potential of these technologies to transform industries.&lt;/p>
+&lt;ul>
+&lt;li>🗣 &lt;strong>DevOps&lt;/strong> is culture + processes + tools — you can&amp;rsquo;t buy it; you have to adopt it.&lt;/li>
+&lt;li>🚀 Currently growing my skill set in &lt;strong>AI tools&lt;/strong> and &lt;strong>prompt engineering&lt;/strong>.&lt;/li>
+&lt;li>🌱 Actively learning &lt;a href="https://kubernetes.io/">Kubernetes&lt;/a> and &lt;a href="https://prometheus.io/">Prometheus&lt;/a>.&lt;/li>
+&lt;li>💬 Let’s talk about &lt;strong>DevOps Culture&lt;/strong> or anything tech-related!&lt;/li>
+&lt;li>⚙️ My daily tools: &lt;code>AWS&lt;/code>, &lt;code>Docker&lt;/code>, &lt;code>GitHub&lt;/code>, &lt;code>GitLab-CI&lt;/code>, &lt;code>.tf&lt;/code>, &lt;code>Ansible&lt;/code>, &lt;code>sh&lt;/code>.&lt;/li>
+&lt;li>📫 Find me:
+&lt;ul>
+&lt;li>&lt;a href="https://www.linkedin.com/in/fedesg/en/">&lt;img alt="LinkedIn" loading="lazy" src="https://img.shields.io/badge/-@fedesg-black?style=social&amp;logo=LinkedIn">&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/fedesg/">&lt;img alt="GitHub" loading="lazy" src="https://img.shields.io/badge/-@fedesg-black?style=social&amp;logo=GitHub">&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://x.com/fedesg/">&lt;img alt="X" loading="lazy" src="https://img.shields.io/badge/-@fedesg-black?style=social&amp;logo=x">&lt;/a>&lt;/li>
+&lt;li>&lt;a href="mailto:fedesg@gmail.com">&lt;img alt="Gmail" loading="lazy" src="https://img.shields.io/badge/-fedesg-black?style=social&amp;logo=gmail">&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul></description></item><item><title>Acerca</title><link>https://fedesg.github.io/mysite/es/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://fedesg.github.io/mysite/es/about/</guid><description>&lt;h3 id="hola--soy-fede">Hola 👋, soy Fede&lt;/h3>
+&lt;p>Un argentino actualmente radicado en Dubái, trabajando como &lt;strong>Ingeniero DevOps &amp;amp; SRE&lt;/strong>. Me apasiona el aprendizaje continuo y me enfoco en áreas como la &lt;strong>adopción de la nube&lt;/strong>, la &lt;strong>observabilidad&lt;/strong> y la &lt;strong>administración de herramientas&lt;/strong>. Como &lt;strong>consultor de Atlassian&lt;/strong>, me especializo en &lt;strong>migraciones&lt;/strong>, &lt;strong>automatización&lt;/strong> y &lt;strong>configuración de flujos de trabajo&lt;/strong>. También disfruto explorando temas como las &lt;strong>aplicaciones de inteligencia artificial&lt;/strong>, la &lt;strong>ingeniería de prompts&lt;/strong>, las &lt;strong>criptomonedas&lt;/strong> y el &lt;strong>Web3&lt;/strong>, impulsado por la curiosidad y el potencial de estas tecnologías para transformar industrias.&lt;/p></description></item><item><title>Atlassian Consultant</title><link>https://fedesg.github.io/mysite/atlassian/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://fedesg.github.io/mysite/atlassian/</guid><description>&lt;h2 id="atlassian-expertise">&lt;strong>Atlassian Expertise&lt;/strong>&lt;/h2>
+&lt;p>With years of experience as an &lt;strong>Atlassian Consultant&lt;/strong>, I specialize in helping teams leverage the full potential of &lt;strong>Jira&lt;/strong>, &lt;strong>Confluence&lt;/strong>, and &lt;strong>Bitbucket&lt;/strong> to enhance collaboration, streamline workflows, and improve operational efficiency. Whether it’s setting up custom workflows, performing complex migrations, or automating repetitive tasks, I’m dedicated to providing tailored solutions that align with each organization’s unique requirements.&lt;/p>
+&lt;hr>
+&lt;h2 id="key-areas-of-expertise">&lt;strong>Key Areas of Expertise&lt;/strong>&lt;/h2>
+&lt;h3 id="workflow-optimization">&lt;strong>Workflow Optimization&lt;/strong>&lt;/h3>
+&lt;ul>
+&lt;li>Designed and implemented &lt;strong>custom Jira workflows&lt;/strong>, screens, and schemes to align with business processes, ensuring seamless task management across teams.&lt;/li>
+&lt;li>Automated workflows using &lt;strong>ScriptRunner&lt;/strong>, &lt;strong>Automation for Jira&lt;/strong>, and other tools to reduce manual overhead and improve productivity.&lt;/li>
+&lt;/ul>
+&lt;h3 id="migration-specialist">&lt;strong>Migration Specialist&lt;/strong>&lt;/h3>
+&lt;ul>
+&lt;li>Managed end-to-end migrations from &lt;strong>on-premise Atlassian environments&lt;/strong> to &lt;strong>cloud-based instances&lt;/strong>, ensuring data integrity and minimal downtime.&lt;/li>
+&lt;li>Migrated large-scale &lt;strong>Bitbucket repositories&lt;/strong> and &lt;strong>Jira projects&lt;/strong> to cloud platforms, enabling teams to benefit from improved performance and scalability.&lt;/li>
+&lt;/ul>
+&lt;h3 id="administration--maintenance">&lt;strong>Administration &amp;amp; Maintenance&lt;/strong>&lt;/h3>
+&lt;ul>
+&lt;li>Administered &lt;strong>Jira&lt;/strong> and &lt;strong>Confluence&lt;/strong> for environments with &lt;strong>2000+ licenses&lt;/strong>, configuring roles, permissions, and integrations to support enterprise-level operations.&lt;/li>
+&lt;li>Provided ongoing maintenance, upgrades, and performance optimization for Atlassian instances, ensuring uninterrupted service for users.&lt;/li>
+&lt;/ul>
+&lt;h3 id="customization--integration">&lt;strong>Customization &amp;amp; Integration&lt;/strong>&lt;/h3>
+&lt;ul>
+&lt;li>Integrated &lt;strong>Jira&lt;/strong> and &lt;strong>Confluence&lt;/strong> with third-party tools like &lt;strong>Slack&lt;/strong>, &lt;strong>GitLab&lt;/strong>, and &lt;strong>CI/CD pipelines&lt;/strong> for enhanced team collaboration.&lt;/li>
+&lt;li>Created tailored &lt;strong>dashboards, reports, and filters&lt;/strong> to provide actionable insights for project tracking and decision-making.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="impactful-projects">&lt;strong>Impactful Projects&lt;/strong>&lt;/h2>
+&lt;h3 id="workflow-automation-for-business-teams">&lt;strong>Workflow Automation for Business Teams&lt;/strong>&lt;/h3>
+&lt;ul>
+&lt;li>Built custom workflows in &lt;strong>Jira Software&lt;/strong> and &lt;strong>Jira Service Management&lt;/strong> to align with ITIL and Agile frameworks, ensuring smoother operations for IT and business units.&lt;/li>
+&lt;li>Automated ticket triaging and assignment processes, reducing resolution times by over 40%.&lt;/li>
+&lt;/ul>
+&lt;h3 id="migration-to-atlassian-cloud">&lt;strong>Migration to Atlassian Cloud&lt;/strong>&lt;/h3>
+&lt;ul>
+&lt;li>Led a large-scale migration of &lt;strong>Jira and Confluence instances&lt;/strong> from on-premises to Atlassian Cloud, ensuring compliance with security and data governance requirements.&lt;/li>
+&lt;li>Successfully migrated &lt;strong>Bitbucket Server repositories&lt;/strong> to &lt;strong>Bitbucket Cloud&lt;/strong>, enabling distributed teams to collaborate more efficiently.&lt;/li>
+&lt;/ul>
+&lt;h3 id="enterprise-atlassian-administration">&lt;strong>Enterprise Atlassian Administration&lt;/strong>&lt;/h3>
+&lt;ul>
+&lt;li>Managed the &lt;strong>Jira and Confluence environments&lt;/strong> for a global organization with thousands of users, customizing permissions, issue types, and workflows to fit the needs of multiple departments.&lt;/li>
+&lt;li>Designed and implemented a &lt;strong>Confluence knowledge base&lt;/strong> integrated with Jira Service Management, reducing ticket load by 30%.&lt;/li>
+&lt;/ul>
+&lt;h3 id="devops-toolchain-integration">&lt;strong>DevOps Toolchain Integration&lt;/strong>&lt;/h3>
+&lt;ul>
+&lt;li>Integrated Jira with CI/CD pipelines to enable automated deployment tracking, reducing delays and improving visibility for engineering teams.&lt;/li>
+&lt;li>Leveraged &lt;strong>Jira Software&lt;/strong> for sprint planning, backlog management, and release tracking across multiple Agile teams.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="why-work-with-me">&lt;strong>Why Work with Me?&lt;/strong>&lt;/h2>
+&lt;p>As an Atlassian Consultant, my mission is to empower teams by optimizing their use of Atlassian tools. Whether you&amp;rsquo;re looking to scale your operations, adopt &lt;strong>DevOps best practices&lt;/strong>, or streamline team collaboration, I bring a hands-on, problem-solving approach to deliver solutions that work.&lt;/p></description></item><item><title>Consultor Atlassian</title><link>https://fedesg.github.io/mysite/es/atlassian/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://fedesg.github.io/mysite/es/atlassian/</guid><description>&lt;h2 id="experiencia">&lt;strong>Experiencia&lt;/strong>&lt;/h2>
+&lt;p>Con años de experiencia como &lt;strong>Consultor Atlassian&lt;/strong>, me especializo en ayudar a los equipos a aprovechar todo el potencial de herramientas como &lt;strong>Jira&lt;/strong>, &lt;strong>Confluence&lt;/strong> y &lt;strong>Bitbucket&lt;/strong> para mejorar la colaboración, optimizar flujos de trabajo y aumentar la eficiencia operativa. Ya sea configurando flujos personalizados, realizando migraciones complejas o automatizando tareas repetitivas, me dedico a brindar soluciones adaptadas a las necesidades únicas de cada organización.&lt;/p>
+&lt;hr>
+&lt;h2 id="áreas-clave-de-especialización">&lt;strong>Áreas Clave de Especialización&lt;/strong>&lt;/h2>
+&lt;h3 id="optimización-de-flujos-de-trabajo">&lt;strong>Optimización de Flujos de Trabajo&lt;/strong>&lt;/h3>
+&lt;ul>
+&lt;li>Diseñé e implementé &lt;strong>flujos personalizados en Jira&lt;/strong>, pantallas y esquemas alineados con los procesos empresariales, asegurando una gestión fluida de tareas entre equipos.&lt;/li>
+&lt;li>Automatización de flujos de trabajo utilizando herramientas como &lt;strong>ScriptRunner&lt;/strong>, &lt;strong>Automation for Jira&lt;/strong> y otras para reducir tareas manuales y aumentar la productividad.&lt;/li>
+&lt;/ul>
+&lt;h3 id="especialista-en-migraciones">&lt;strong>Especialista en Migraciones&lt;/strong>&lt;/h3>
+&lt;ul>
+&lt;li>Gestioné migraciones completas desde entornos Atlassian &lt;strong>on-premise&lt;/strong> a &lt;strong>instancias en la nube&lt;/strong>, garantizando integridad de datos y tiempos mínimos de inactividad.&lt;/li>
+&lt;li>Migré repositorios de &lt;strong>Bitbucket&lt;/strong> y proyectos de &lt;strong>Jira&lt;/strong> a plataformas en la nube, permitiendo a los equipos beneficiarse de un mejor rendimiento y escalabilidad.&lt;/li>
+&lt;/ul>
+&lt;h3 id="administración-y-mantenimiento">&lt;strong>Administración y Mantenimiento&lt;/strong>&lt;/h3>
+&lt;ul>
+&lt;li>Administré &lt;strong>Jira&lt;/strong> y &lt;strong>Confluence&lt;/strong> para entornos con más de &lt;strong>2000 licencias&lt;/strong>, configurando roles, permisos e integraciones para respaldar operaciones a nivel empresarial.&lt;/li>
+&lt;li>Proporcioné mantenimiento continuo, actualizaciones y optimización de rendimiento para instancias de Atlassian, asegurando un servicio ininterrumpido para los usuarios.&lt;/li>
+&lt;/ul>
+&lt;h3 id="personalización-e-integración">&lt;strong>Personalización e Integración&lt;/strong>&lt;/h3>
+&lt;ul>
+&lt;li>Integré &lt;strong>Jira&lt;/strong> y &lt;strong>Confluence&lt;/strong> con herramientas de terceros como &lt;strong>Slack&lt;/strong>, &lt;strong>GitLab&lt;/strong> y &lt;strong>pipelines CI/CD&lt;/strong> para mejorar la colaboración en equipos.&lt;/li>
+&lt;li>Creé &lt;strong>tableros, informes y filtros personalizados&lt;/strong> que proporcionan información útil para el seguimiento de proyectos y la toma de decisiones.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="proyectos-destacados">&lt;strong>Proyectos Destacados&lt;/strong>&lt;/h2>
+&lt;h3 id="automatización-de-flujos-para-equipos-empresariales">&lt;strong>Automatización de Flujos para Equipos Empresariales&lt;/strong>&lt;/h3>
+&lt;ul>
+&lt;li>Desarrollé flujos personalizados en &lt;strong>Jira Software&lt;/strong> y &lt;strong>Jira Service Management&lt;/strong> alineados con marcos ITIL y Agile, asegurando operaciones más fluidas para las unidades de TI y negocios.&lt;/li>
+&lt;li>Automatización de procesos de clasificación y asignación de tickets, reduciendo los tiempos de resolución en más del 40%.&lt;/li>
+&lt;/ul>
+&lt;h3 id="migración-a-atlassian-cloud">&lt;strong>Migración a Atlassian Cloud&lt;/strong>&lt;/h3>
+&lt;ul>
+&lt;li>Lideré una migración a gran escala de &lt;strong>instancias de Jira y Confluence&lt;/strong> desde servidores locales a Atlassian Cloud, asegurando el cumplimiento de los requisitos de seguridad y gobernanza de datos.&lt;/li>
+&lt;li>Migré con éxito repositorios de &lt;strong>Bitbucket Server&lt;/strong> a &lt;strong>Bitbucket Cloud&lt;/strong>, facilitando la colaboración de equipos distribuidos.&lt;/li>
+&lt;/ul>
+&lt;h3 id="administración-de-atlassian-empresarial">&lt;strong>Administración de Atlassian Empresarial&lt;/strong>&lt;/h3>
+&lt;ul>
+&lt;li>Administré los entornos de &lt;strong>Jira y Confluence&lt;/strong> para una organización global con miles de usuarios, personalizando permisos, tipos de tareas y flujos de trabajo para satisfacer las necesidades de múltiples departamentos.&lt;/li>
+&lt;li>Diseñé e implementé una &lt;strong>base de conocimiento en Confluence&lt;/strong> integrada con Jira Service Management, reduciendo la carga de tickets en un 30%.&lt;/li>
+&lt;/ul>
+&lt;h3 id="integración-con-la-cadena-de-herramientas-devops">&lt;strong>Integración con la Cadena de Herramientas DevOps&lt;/strong>&lt;/h3>
+&lt;ul>
+&lt;li>Integré Jira con pipelines CI/CD para habilitar el seguimiento de despliegues automatizados, reduciendo retrasos y mejorando la visibilidad para los equipos de ingeniería.&lt;/li>
+&lt;li>Utilicé &lt;strong>Jira Software&lt;/strong> para la planificación de sprints, gestión de backlogs y seguimiento de lanzamientos en equipos ágiles.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="por-qué-trabajar-conmigo">&lt;strong>¿Por Qué Trabajar Conmigo?&lt;/strong>&lt;/h2>
+&lt;p>Como Consultor Atlassian, mi misión es empoderar a los equipos optimizando su uso de las herramientas Atlassian. Ya sea que busques escalar tus operaciones, adoptar las mejores prácticas de &lt;strong>DevOps&lt;/strong>, o mejorar la colaboración en equipo, ofrezco un enfoque práctico y orientado a resolver problemas, entregando soluciones efectivas.&lt;/p></description></item><item><title>Consultor Atlassian</title><link>https://fedesg.github.io/mysite/pt/atlassian/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://fedesg.github.io/mysite/pt/atlassian/</guid><description>&lt;h2 id="experiência">&lt;strong>Experiência&lt;/strong>&lt;/h2>
+&lt;p>Com anos de experiência como &lt;strong>Consultor Atlassian&lt;/strong>, especializo-me em ajudar equipes a aproveitar todo o potencial de ferramentas como &lt;strong>Jira&lt;/strong>, &lt;strong>Confluence&lt;/strong> e &lt;strong>Bitbucket&lt;/strong> para melhorar a colaboração, otimizar fluxos de trabalho e aumentar a eficiência operacional. Seja configurando fluxos personalizados, realizando migrações complexas ou automatizando tarefas repetitivas, dedico-me a oferecer soluções sob medida que atendam às necessidades específicas de cada organização.&lt;/p>
+&lt;hr>
+&lt;h2 id="áreas-chave-de-especialização">&lt;strong>Áreas-Chave de Especialização&lt;/strong>&lt;/h2>
+&lt;h3 id="otimização-de-fluxos-de-trabalho">&lt;strong>Otimização de Fluxos de Trabalho&lt;/strong>&lt;/h3>
+&lt;ul>
+&lt;li>Projetei e implementei &lt;strong>fluxos personalizados no Jira&lt;/strong>, telas e esquemas alinhados com os processos de negócios, garantindo uma gestão de tarefas eficiente entre equipes.&lt;/li>
+&lt;li>Automatizei fluxos de trabalho usando &lt;strong>ScriptRunner&lt;/strong>, &lt;strong>Automation for Jira&lt;/strong> e outras ferramentas para reduzir tarefas manuais e aumentar a produtividade.&lt;/li>
+&lt;/ul>
+&lt;h3 id="especialista-em-migração">&lt;strong>Especialista em Migração&lt;/strong>&lt;/h3>
+&lt;ul>
+&lt;li>Gerenciei migrações completas de ambientes Atlassian &lt;strong>on-premise&lt;/strong> para &lt;strong>instâncias baseadas na nuvem&lt;/strong>, garantindo integridade de dados e tempo mínimo de inatividade.&lt;/li>
+&lt;li>Migrei repositórios de &lt;strong>Bitbucket&lt;/strong> e projetos de &lt;strong>Jira&lt;/strong> para plataformas na nuvem, permitindo que as equipes se beneficiassem de melhor desempenho e escalabilidade.&lt;/li>
+&lt;/ul>
+&lt;h3 id="administração-e-manutenção">&lt;strong>Administração e Manutenção&lt;/strong>&lt;/h3>
+&lt;ul>
+&lt;li>Administrei &lt;strong>Jira&lt;/strong> e &lt;strong>Confluence&lt;/strong> para ambientes com mais de &lt;strong>2000 licenças&lt;/strong>, configurando funções, permissões e integrações para dar suporte a operações empresariais.&lt;/li>
+&lt;li>Proporcionei manutenção contínua, atualizações e otimização de desempenho para instâncias Atlassian, garantindo um serviço ininterrupto para os usuários.&lt;/li>
+&lt;/ul>
+&lt;h3 id="personalização-e-integração">&lt;strong>Personalização e Integração&lt;/strong>&lt;/h3>
+&lt;ul>
+&lt;li>Integrei &lt;strong>Jira&lt;/strong> e &lt;strong>Confluence&lt;/strong> com ferramentas de terceiros, como &lt;strong>Slack&lt;/strong>, &lt;strong>GitLab&lt;/strong> e &lt;strong>pipelines CI/CD&lt;/strong>, para melhorar a colaboração das equipes.&lt;/li>
+&lt;li>Criei &lt;strong>painéis personalizados, relatórios e filtros&lt;/strong> que fornecem insights úteis para o acompanhamento de projetos e a tomada de decisões.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="projetos-de-destaque">&lt;strong>Projetos de Destaque&lt;/strong>&lt;/h2>
+&lt;h3 id="automação-de-fluxos-para-equipes-empresariais">&lt;strong>Automação de Fluxos para Equipes Empresariais&lt;/strong>&lt;/h3>
+&lt;ul>
+&lt;li>Desenvolvi fluxos personalizados no &lt;strong>Jira Software&lt;/strong> e &lt;strong>Jira Service Management&lt;/strong>, alinhados com os frameworks ITIL e Agile, garantindo operações mais eficientes para TI e unidades de negócios.&lt;/li>
+&lt;li>Automatizei processos de triagem e atribuição de tickets, reduzindo os tempos de resolução em mais de 40%.&lt;/li>
+&lt;/ul>
+&lt;h3 id="migração-para-atlassian-cloud">&lt;strong>Migração para Atlassian Cloud&lt;/strong>&lt;/h3>
+&lt;ul>
+&lt;li>Liderei uma migração em grande escala de &lt;strong>instâncias Jira e Confluence&lt;/strong> de servidores locais para Atlassian Cloud, garantindo conformidade com requisitos de segurança e governança de dados.&lt;/li>
+&lt;li>Migrei com sucesso repositórios de &lt;strong>Bitbucket Server&lt;/strong> para &lt;strong>Bitbucket Cloud&lt;/strong>, facilitando a colaboração de equipes distribuídas.&lt;/li>
+&lt;/ul>
+&lt;h3 id="administração-atlassian-empresarial">&lt;strong>Administração Atlassian Empresarial&lt;/strong>&lt;/h3>
+&lt;ul>
+&lt;li>Gerenciei os ambientes de &lt;strong>Jira e Confluence&lt;/strong> para uma organização global com milhares de usuários, personalizando permissões, tipos de tarefas e fluxos de trabalho para atender às necessidades de vários departamentos.&lt;/li>
+&lt;li>Projetei e implementei uma &lt;strong>base de conhecimento no Confluence&lt;/strong>, integrada com o Jira Service Management, reduzindo a carga de tickets em 30%.&lt;/li>
+&lt;/ul>
+&lt;h3 id="integração-com-ferramentas-devops">&lt;strong>Integração com Ferramentas DevOps&lt;/strong>&lt;/h3>
+&lt;ul>
+&lt;li>Integrei o Jira a pipelines CI/CD para permitir o rastreamento de implantações automatizadas, reduzindo atrasos e melhorando a visibilidade para equipes de engenharia.&lt;/li>
+&lt;li>Utilizei o &lt;strong>Jira Software&lt;/strong> para planejamento de sprints, gerenciamento de backlogs e acompanhamento de lançamentos em equipes ágeis.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="por-que-trabalhar-comigo">&lt;strong>Por Que Trabalhar Comigo?&lt;/strong>&lt;/h2>
+&lt;p>Como Consultor Atlassian, minha missão é capacitar equipes, otimizando o uso das ferramentas Atlassian. Seja para escalar operações, adotar as melhores práticas de &lt;strong>DevOps&lt;/strong>, ou melhorar a colaboração em equipe, trago uma abordagem prática e orientada à solução de problemas para entregar soluções eficazes.&lt;/p></description></item><item><title>Devops</title><link>https://fedesg.github.io/mysite/devops/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://fedesg.github.io/mysite/devops/</guid><description>&lt;h2 id="professional-journey">&lt;strong>Professional Journey&lt;/strong>&lt;/h2>
+&lt;p>I’m a &lt;strong>DevOps &amp;amp; SRE Engineer&lt;/strong> with over 15 years of experience delivering innovative IT solutions across industries like eCommerce, Financial Services, Startups, Telecommunications, and Aviation. My expertise spans &lt;strong>cloud adoption&lt;/strong>, &lt;strong>automation&lt;/strong>, &lt;strong>observability&lt;/strong>, and &lt;strong>tool administration&lt;/strong>. With a passion for collaboration and efficiency, I’ve guided organizations in embracing &lt;strong>DevOps practices&lt;/strong> and driving digital transformation.&lt;/p>
+&lt;hr>
+&lt;h2 id="key-skills--tools">&lt;strong>Key Skills &amp;amp; Tools&lt;/strong>&lt;/h2>
+&lt;h3 id="core-areas-of-expertise">&lt;strong>Core Areas of Expertise&lt;/strong>&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>DevOps &amp;amp; SRE Practices:&lt;/strong> Infrastructure as Code (IaC), CI/CD pipelines, observability, automation, and GitOps.&lt;/li>
+&lt;li>&lt;strong>Cloud Technologies:&lt;/strong> AWS, Azure, OpenShift.&lt;/li>
+&lt;li>&lt;strong>Automation &amp;amp; IaC Tools:&lt;/strong> Terraform, Ansible, Puppet, FluxCD.&lt;/li>
+&lt;li>&lt;strong>Monitoring &amp;amp; Observability:&lt;/strong> Prometheus, Grafana, Splunk, AppDynamics, CloudWatch.&lt;/li>
+&lt;li>&lt;strong>Containerization &amp;amp; Orchestration:&lt;/strong> Docker, Kubernetes.&lt;/li>
+&lt;li>&lt;strong>Collaboration Tools:&lt;/strong> Atlassian Suite (Jira, Confluence, Bitbucket), Git, CI/CD platforms like Github, GitLab-CI and Jenkins.&lt;/li>
+&lt;li>&lt;strong>Certifications:&lt;/strong> AWS Developer &amp;amp; Solutions Architect Associate, Terraform Associate.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="how-i-make-an-impact">&lt;strong>How I Make an Impact&lt;/strong>&lt;/h2>
+&lt;h3 id="cloud-transformation--automation">&lt;strong>Cloud Transformation &amp;amp; Automation&lt;/strong>&lt;/h3>
+&lt;ul>
+&lt;li>Migrated legacy systems to &lt;strong>cloud-native environments&lt;/strong> with improved scalability, reliability, and cost-effectiveness.&lt;/li>
+&lt;li>Automated infrastructure provisioning using tools like &lt;strong>Terraform&lt;/strong> and &lt;strong>Ansible&lt;/strong>, saving time and reducing manual errors.&lt;/li>
+&lt;/ul>
+&lt;h3 id="cicd--deployment">&lt;strong>CI/CD &amp;amp; Deployment&lt;/strong>&lt;/h3>
+&lt;ul>
+&lt;li>Engineered &lt;strong>end-to-end CI/CD pipelines&lt;/strong> to streamline code deployments and enhance developer productivity.&lt;/li>
+&lt;li>Integrated containerization workflows with tools like &lt;strong>Docker&lt;/strong> and &lt;strong>Kubernetes&lt;/strong> for faster and more secure releases.&lt;/li>
+&lt;/ul>
+&lt;h3 id="observability--reliability">&lt;strong>Observability &amp;amp; Reliability&lt;/strong>&lt;/h3>
+&lt;ul>
+&lt;li>Designed and implemented robust monitoring solutions using &lt;strong>Prometheus&lt;/strong>, &lt;strong>Grafana&lt;/strong>, and &lt;strong>Splunk&lt;/strong> to improve system uptime and incident resolution.&lt;/li>
+&lt;li>Applied &lt;strong>Site Reliability Engineering (SRE)&lt;/strong> principles to optimize system performance, availability, and scalability.&lt;/li>
+&lt;/ul>
+&lt;h3 id="devops-culture-enablement">&lt;strong>DevOps Culture Enablement&lt;/strong>&lt;/h3>
+&lt;ul>
+&lt;li>Helped organizations adopt &lt;strong>DevOps methodologies&lt;/strong>, aligning teams around shared goals and processes.&lt;/li>
+&lt;li>Delivered training sessions and shared best practices to promote collaboration and continuous improvement.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="projects-that-stand-out">&lt;strong>Projects That Stand Out&lt;/strong>&lt;/h2>
+&lt;ul>
+&lt;li>Performed the &lt;strong>migration of applications to containerized environments&lt;/strong>, improving deployment speed and reducing operational overhead.&lt;/li>
+&lt;li>Led &lt;strong>cloud adoption initiatives&lt;/strong> using AWS, designing scalable and secure cloud environments to handle high traffic and performance demands.&lt;/li>
+&lt;li>Created reusable IaC modules to standardize and simplify infrastructure provisioning across multiple teams.&lt;/li>
+&lt;li>Enhanced the &lt;strong>observability&lt;/strong> of mission-critical systems, ensuring faster response times during incidents and minimizing downtime.&lt;/li>
+&lt;li>Guided teams in adopting &lt;strong>GitOps workflows&lt;/strong>, ensuring consistency and traceability in infrastructure and application changes.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="why-work-with-me">&lt;strong>Why Work with Me?&lt;/strong>&lt;/h2>
+&lt;p>With a proven track record of success and a passion for solving complex technical challenges, I bring a blend of technical expertise, creativity, and collaboration to every project. My approach emphasizes building &lt;strong>scalable, secure, and reliable solutions&lt;/strong> while fostering a culture of continuous learning and improvement.&lt;/p></description></item><item><title>Devops</title><link>https://fedesg.github.io/mysite/es/devops/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://fedesg.github.io/mysite/es/devops/</guid><description>&lt;h2 id="trayectoria-profesional">&lt;strong>Trayectoria Profesional&lt;/strong>&lt;/h2>
+&lt;p>Soy un &lt;strong>Ingeniero DevOps &amp;amp; SRE&lt;/strong> con más de 15 años de experiencia ofreciendo soluciones de TI innovadoras en sectores como &lt;strong>comercio electrónico&lt;/strong>, &lt;strong>servicios financieros&lt;/strong>, &lt;strong>startups&lt;/strong>, &lt;strong>telecomunicaciones&lt;/strong> y &lt;strong>aviación&lt;/strong>. Mi experiencia abarca &lt;strong>adopción de la nube&lt;/strong>, &lt;strong>automatización&lt;/strong>, &lt;strong>observabilidad&lt;/strong> y &lt;strong>administración de herramientas&lt;/strong>. Con pasión por la colaboración y la eficiencia, he guiado a organizaciones en la adopción de &lt;strong>prácticas DevOps&lt;/strong> y la transformación digital.&lt;/p>
+&lt;hr>
+&lt;h2 id="habilidades-clave-y-herramientas">&lt;strong>Habilidades Clave y Herramientas&lt;/strong>&lt;/h2>
+&lt;h3 id="áreas-principales-de-experiencia">&lt;strong>Áreas Principales de Experiencia&lt;/strong>&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Prácticas DevOps &amp;amp; SRE:&lt;/strong> Infrastructure as Code (IaC), pipelines CI/CD, observabilidad, automatización y GitOps.&lt;/li>
+&lt;li>&lt;strong>Tecnologías en la Nube:&lt;/strong> AWS, Azure, OpenShift.&lt;/li>
+&lt;li>&lt;strong>Herramientas de Automatización e IaC:&lt;/strong> Terraform, Ansible, Puppet, FluxCD.&lt;/li>
+&lt;li>&lt;strong>Monitoreo y Observabilidad:&lt;/strong> Prometheus, Grafana, Splunk, AppDynamics, CloudWatch.&lt;/li>
+&lt;li>&lt;strong>Contenerización y Orquestación:&lt;/strong> Docker, Kubernetes.&lt;/li>
+&lt;li>&lt;strong>Herramientas de Colaboración:&lt;/strong> Suite Atlassian (Jira, Confluence, Bitbucket), Git, plataformas CI/CD como GitHub, GitLab-CI y Jenkins.&lt;/li>
+&lt;li>&lt;strong>Certificaciones:&lt;/strong> AWS Developer &amp;amp; Solutions Architect Associate, Terraform Associate.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="cómo-genero-impacto">&lt;strong>Cómo Genero Impacto&lt;/strong>&lt;/h2>
+&lt;h3 id="transformación-en-la-nube-y-automatización">&lt;strong>Transformación en la Nube y Automatización&lt;/strong>&lt;/h3>
+&lt;ul>
+&lt;li>Migré sistemas heredados a &lt;strong>entornos nativos en la nube&lt;/strong>, logrando mayor escalabilidad, confiabilidad y reducción de costos.&lt;/li>
+&lt;li>Automatización del aprovisionamiento de infraestructura con herramientas como &lt;strong>Terraform&lt;/strong> y &lt;strong>Ansible&lt;/strong>, ahorrando tiempo y reduciendo errores manuales.&lt;/li>
+&lt;/ul>
+&lt;h3 id="cicd-y-despliegue">&lt;strong>CI/CD y Despliegue&lt;/strong>&lt;/h3>
+&lt;ul>
+&lt;li>Diseñé &lt;strong>pipelines CI/CD de extremo a extremo&lt;/strong> para optimizar despliegues de código y mejorar la productividad de los desarrolladores.&lt;/li>
+&lt;li>Integré flujos de trabajo de contenerización con herramientas como &lt;strong>Docker&lt;/strong> y &lt;strong>Kubernetes&lt;/strong> para lanzamientos más rápidos y seguros.&lt;/li>
+&lt;/ul>
+&lt;h3 id="observabilidad-y-confiabilidad">&lt;strong>Observabilidad y Confiabilidad&lt;/strong>&lt;/h3>
+&lt;ul>
+&lt;li>Implementé soluciones de monitoreo con &lt;strong>Prometheus&lt;/strong>, &lt;strong>Grafana&lt;/strong> y &lt;strong>Splunk&lt;/strong>, mejorando la disponibilidad del sistema y la resolución de incidentes.&lt;/li>
+&lt;li>Apliqué principios de &lt;strong>Ingeniería de Confiabilidad del Sitio (SRE)&lt;/strong> para optimizar rendimiento, disponibilidad y escalabilidad de los sistemas.&lt;/li>
+&lt;/ul>
+&lt;h3 id="fomento-de-la-cultura-devops">&lt;strong>Fomento de la Cultura DevOps&lt;/strong>&lt;/h3>
+&lt;ul>
+&lt;li>Ayudé a organizaciones a adoptar &lt;strong>metodologías DevOps&lt;/strong>, alineando equipos con objetivos y procesos compartidos.&lt;/li>
+&lt;li>Ofrecí sesiones de capacitación y compartí mejores prácticas para fomentar la colaboración y la mejora continua.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="proyectos-destacados">&lt;strong>Proyectos Destacados&lt;/strong>&lt;/h2>
+&lt;ul>
+&lt;li>Migración de aplicaciones a &lt;strong>entornos contenerizados&lt;/strong>, mejorando la velocidad de despliegue y reduciendo la sobrecarga operativa.&lt;/li>
+&lt;li>Lideré iniciativas de &lt;strong>adopción de la nube&lt;/strong> con AWS, diseñando entornos escalables y seguros para manejar alto tráfico y demandas de rendimiento.&lt;/li>
+&lt;li>Creé módulos reutilizables de IaC para estandarizar y simplificar el aprovisionamiento de infraestructura en múltiples equipos.&lt;/li>
+&lt;li>Mejoré la &lt;strong>observabilidad&lt;/strong> de sistemas críticos, asegurando tiempos de respuesta más rápidos durante incidentes y minimizando el tiempo de inactividad.&lt;/li>
+&lt;li>Guié a equipos en la adopción de &lt;strong>flujos de trabajo GitOps&lt;/strong>, garantizando consistencia y trazabilidad en los cambios de infraestructura y aplicaciones.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="por-qué-trabajar-conmigo">&lt;strong>Por Qué Trabajar Conmigo&lt;/strong>&lt;/h2>
+&lt;p>Con un historial comprobado de éxitos y una pasión por resolver desafíos técnicos complejos, ofrezco una combinación de experiencia técnica, creatividad y colaboración en cada proyecto. Mi enfoque se centra en construir &lt;strong>soluciones escalables, seguras y confiables&lt;/strong>, fomentando una cultura de aprendizaje y mejora continua.&lt;/p></description></item><item><title>Devops</title><link>https://fedesg.github.io/mysite/pt/devops/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://fedesg.github.io/mysite/pt/devops/</guid><description>&lt;h2 id="jornada-profissional">&lt;strong>Jornada Profissional&lt;/strong>&lt;/h2>
+&lt;p>Sou um &lt;strong>Engenheiro DevOps &amp;amp; SRE&lt;/strong> com mais de 15 anos de experiência entregando soluções inovadoras de TI em setores como &lt;strong>e-commerce&lt;/strong>, &lt;strong>serviços financeiros&lt;/strong>, &lt;strong>startups&lt;/strong>, &lt;strong>telecomunicações&lt;/strong> e &lt;strong>aviação&lt;/strong>. Minha experiência abrange &lt;strong>adoção de nuvem&lt;/strong>, &lt;strong>automação&lt;/strong>, &lt;strong>observabilidade&lt;/strong> e &lt;strong>administração de ferramentas&lt;/strong>. Com paixão pela colaboração e eficiência, guiei organizações na adoção de &lt;strong>práticas DevOps&lt;/strong> e na transformação digital.&lt;/p>
+&lt;hr>
+&lt;h2 id="habilidades-principais-e-ferramentas">&lt;strong>Habilidades Principais e Ferramentas&lt;/strong>&lt;/h2>
+&lt;h3 id="áreas-chave-de-especialização">&lt;strong>Áreas-Chave de Especialização&lt;/strong>&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Práticas DevOps &amp;amp; SRE:&lt;/strong> Infrastructure as Code (IaC), pipelines CI/CD, observabilidade, automação e GitOps.&lt;/li>
+&lt;li>&lt;strong>Tecnologias em Nuvem:&lt;/strong> AWS, Azure, OpenShift.&lt;/li>
+&lt;li>&lt;strong>Ferramentas de Automação e IaC:&lt;/strong> Terraform, Ansible, Puppet, FluxCD.&lt;/li>
+&lt;li>&lt;strong>Monitoramento e Observabilidade:&lt;/strong> Prometheus, Grafana, Splunk, AppDynamics, CloudWatch.&lt;/li>
+&lt;li>&lt;strong>Containerização e Orquestração:&lt;/strong> Docker, Kubernetes.&lt;/li>
+&lt;li>&lt;strong>Ferramentas de Colaboração:&lt;/strong> Suite Atlassian (Jira, Confluence, Bitbucket), Git, plataformas CI/CD como GitHub, GitLab-CI e Jenkins.&lt;/li>
+&lt;li>&lt;strong>Certificações:&lt;/strong> AWS Developer &amp;amp; Solutions Architect Associate, Terraform Associate.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="como-gero-impacto">&lt;strong>Como Gero Impacto&lt;/strong>&lt;/h2>
+&lt;h3 id="transformação-em-nuvem-e-automação">&lt;strong>Transformação em Nuvem e Automação&lt;/strong>&lt;/h3>
+&lt;ul>
+&lt;li>Migrei sistemas legados para &lt;strong>ambientes nativos na nuvem&lt;/strong>, alcançando maior escalabilidade, confiabilidade e redução de custos.&lt;/li>
+&lt;li>Automatizei o provisionamento de infraestrutura usando ferramentas como &lt;strong>Terraform&lt;/strong> e &lt;strong>Ansible&lt;/strong>, economizando tempo e reduzindo erros manuais.&lt;/li>
+&lt;/ul>
+&lt;h3 id="cicd-e-implantação">&lt;strong>CI/CD e Implantação&lt;/strong>&lt;/h3>
+&lt;ul>
+&lt;li>Desenvolvi &lt;strong>pipelines CI/CD de ponta a ponta&lt;/strong> para otimizar a implantação de código e melhorar a produtividade dos desenvolvedores.&lt;/li>
+&lt;li>Integrei fluxos de trabalho de containerização com ferramentas como &lt;strong>Docker&lt;/strong> e &lt;strong>Kubernetes&lt;/strong> para lançamentos mais rápidos e seguros.&lt;/li>
+&lt;/ul>
+&lt;h3 id="observabilidade-e-confiabilidade">&lt;strong>Observabilidade e Confiabilidade&lt;/strong>&lt;/h3>
+&lt;ul>
+&lt;li>Implementei soluções robustas de monitoramento com &lt;strong>Prometheus&lt;/strong>, &lt;strong>Grafana&lt;/strong> e &lt;strong>Splunk&lt;/strong>, melhorando o tempo de atividade do sistema e a resolução de incidentes.&lt;/li>
+&lt;li>Apliquei princípios de &lt;strong>Site Reliability Engineering (SRE)&lt;/strong> para otimizar o desempenho, a disponibilidade e a escalabilidade dos sistemas.&lt;/li>
+&lt;/ul>
+&lt;h3 id="promoção-da-cultura-devops">&lt;strong>Promoção da Cultura DevOps&lt;/strong>&lt;/h3>
+&lt;ul>
+&lt;li>Auxiliei organizações na adoção de &lt;strong>metodologias DevOps&lt;/strong>, alinhando equipes em torno de metas e processos compartilhados.&lt;/li>
+&lt;li>Conduzi treinamentos e compartilhei melhores práticas para promover colaboração e melhoria contínua.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="projetos-de-destaque">&lt;strong>Projetos de Destaque&lt;/strong>&lt;/h2>
+&lt;ul>
+&lt;li>Realizei a &lt;strong>migração de aplicações para ambientes containerizados&lt;/strong>, melhorando a velocidade de implantação e reduzindo sobrecargas operacionais.&lt;/li>
+&lt;li>Liderei iniciativas de &lt;strong>adoção de nuvem&lt;/strong> com AWS, projetando ambientes escaláveis e seguros para atender altas demandas de tráfego e desempenho.&lt;/li>
+&lt;li>Desenvolvi módulos reutilizáveis de IaC para padronizar e simplificar o provisionamento de infraestrutura entre várias equipes.&lt;/li>
+&lt;li>Melhorei a &lt;strong>observabilidade&lt;/strong> de sistemas críticos, garantindo tempos de resposta mais rápidos durante incidentes e minimizando períodos de inatividade.&lt;/li>
+&lt;li>Orientei equipes na adoção de &lt;strong>fluxos de trabalho GitOps&lt;/strong>, garantindo consistência e rastreabilidade em alterações de infraestrutura e aplicações.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="por-que-trabalhar-comigo">&lt;strong>Por Que Trabalhar Comigo&lt;/strong>&lt;/h2>
+&lt;p>Com um histórico comprovado de sucesso e paixão por resolver desafios técnicos complexos, trago uma combinação de experiência técnica, criatividade e colaboração para cada projeto. Meu foco é construir &lt;strong>soluções escaláveis, seguras e confiáveis&lt;/strong>, promovendo uma cultura de aprendizado e melhoria contínua.&lt;/p></description></item><item><title>Sobre</title><link>https://fedesg.github.io/mysite/pt/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://fedesg.github.io/mysite/pt/about/</guid><description>&lt;h3 id="olá--sou-o-fede">Olá 👋, sou o Fede&lt;/h3>
+&lt;p>Um argentino atualmente baseado em Dubai, trabalhando como &lt;strong>Engenheiro DevOps &amp;amp; SRE&lt;/strong>. Sou apaixonado por aprendizado contínuo e me concentro em áreas como &lt;strong>adoção de nuvem&lt;/strong>, &lt;strong>observabilidade&lt;/strong> e &lt;strong>administração de ferramentas&lt;/strong>. Como &lt;strong>consultor Atlassian&lt;/strong>, sou especializado em &lt;strong>migrações&lt;/strong>, &lt;strong>automação&lt;/strong> e &lt;strong>configuração de fluxos de trabalho&lt;/strong>. Também gosto de explorar temas como &lt;strong>aplicações de IA&lt;/strong>, &lt;strong>engenharia de prompts&lt;/strong>, &lt;strong>criptomoedas&lt;/strong> e &lt;strong>Web3&lt;/strong>, impulsionado pela curiosidade e pelo potencial dessas tecnologias para transformar indústrias.&lt;/p></description></item></channel></rss>
