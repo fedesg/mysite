@@ -21,7 +21,7 @@ Com anos de experiência como **Consultor Atlassian**, especializo-me em ajudar 
 - Migrei repositórios de **Bitbucket** e projetos de **Jira** para plataformas na nuvem, permitindo que as equipes se beneficiassem de melhor desempenho e escalabilidade.
 
 ### **Administração e Manutenção**
-- Administrei **Jira** e **Confluence** para ambientes com mais de **2000 licenças**, configurando funções, permissões e integrações para dar suporte a operações empresariais.
+- Administrei **Jira** e **Confluence** para ambientes com **3000+ licenças**, configurando funções, permissões e integrações para dar suporte a operações empresariais.
 - Proporcionei manutenção contínua, atualizações e otimização de desempenho para instâncias Atlassian, garantindo um serviço ininterrupto para os usuários.
 
 ### **Personalização e Integração**

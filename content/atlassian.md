@@ -21,7 +21,7 @@ With years of experience as an **Atlassian Consultant**, I specialize in helping
 - Migrated large-scale **Bitbucket repositories** and **Jira projects** to cloud platforms, enabling teams to benefit from improved performance and scalability.
 
 ### **Administration & Maintenance**
-- Administered **Jira** and **Confluence** for environments with **2000+ licenses**, configuring roles, permissions, and integrations to support enterprise-level operations.
+- Administered **Jira** and **Confluence** for environments with **3000+ licenses**, configuring roles, permissions, and integrations to support enterprise-level operations.
 - Provided ongoing maintenance, upgrades, and performance optimization for Atlassian instances, ensuring uninterrupted service for users.
 
 ### **Customization & Integration**

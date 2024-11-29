@@ -1,11 +1,10 @@
-name: Deploy Hugo Site to GitHub Pages
+name: Deploy fedesg site to GitHub pages
 
 # Trigger deployment on push to the main branch or manual dispatch
 on:
   push:
     branches:
       - main
-      - develop
   workflow_dispatch:
 
 # Permissions required to deploy to GitHub Pages
