@@ -45,7 +45,13 @@ jobs:
         run: |
           hugo --minify --baseURL https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}
 
-      # Step 5: Deploy to GitHub Pages
+      # Step 5: Replace links in the public folder
+      - name: Replace Links in Public Folder
+        run: |
+          find ./public -type f -exec sed -i 's#https://fedesg.github.io/pt/mysite/#https://fedesg.github.io/mysite/pt/#g' {} +
+          find ./public -type f -exec sed -i 's#https://fedesg.github.io/es/mysite/#https://fedesg.github.io/mysite/es/#g' {} +
+
+      # Step 6: Deploy to GitHub Pages
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
