@@ -19,7 +19,11 @@ Soy un **Ingeniero DevOps & SRE** con más de 15 años de experiencia ofreciendo
 - **Monitoreo y Observabilidad:** Prometheus, Grafana, Splunk, AppDynamics, CloudWatch.
 - **Contenerización y Orquestación:** Docker, Kubernetes.
 - **Herramientas de Colaboración:** Suite Atlassian (Jira, Confluence, Bitbucket), Git, plataformas CI/CD como GitHub, GitLab-CI y Jenkins.
-- **Certificaciones:** AWS Developer & Solutions Architect Associate, Terraform Associate.
+- **Certificaciones:**
+  + AWS SysOps Associate.
+  + AWS Developer Associate.
+  + AWS Solutions Architect Associate.
+  + Terraform Associate.
 
 ---
 
