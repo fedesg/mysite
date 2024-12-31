@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>fedesg</title><link>https://fedesg.github.io/mysite/pt/</link><description>Recent content on fedesg</description><generator>Hugo -- 0.139.3</generator><language>pt</language><atom:link href="https://fedesg.github.io/mysite/pt/index.xml" rel="self" type="application/rss+xml"/><item><title>Consultor Atlassian</title><link>https://fedesg.github.io/mysite/pt/atlassian/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://fedesg.github.io/mysite/pt/atlassian/</guid><description>&lt;h2 id="experiência">&lt;strong>Experiência&lt;/strong>&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>fedesg</title><link>https://fedesg.github.io/mysite/pt/</link><description>Recent content on fedesg</description><generator>Hugo -- 0.140.2</generator><language>pt</language><atom:link href="https://fedesg.github.io/mysite/pt/index.xml" rel="self" type="application/rss+xml"/><item><title>Consultor Atlassian</title><link>https://fedesg.github.io/mysite/pt/atlassian/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://fedesg.github.io/mysite/pt/atlassian/</guid><description>&lt;h2 id="experiência">&lt;strong>Experiência&lt;/strong>&lt;/h2>
 &lt;p>Com anos de experiência como &lt;strong>Consultor Atlassian&lt;/strong>, especializo-me em ajudar equipes a aproveitar todo o potencial de ferramentas como &lt;strong>Jira&lt;/strong>, &lt;strong>Confluence&lt;/strong> e &lt;strong>Bitbucket&lt;/strong> para melhorar a colaboração, otimizar fluxos de trabalho e aumentar a eficiência operacional. Seja configurando fluxos personalizados, realizando migrações complexas ou automatizando tarefas repetitivas, dedico-me a oferecer soluções sob medida que atendam às necessidades específicas de cada organização.&lt;/p>
 &lt;hr>
 &lt;h2 id="áreas-chave-de-especialização">&lt;strong>Áreas-Chave de Especialização&lt;/strong>&lt;/h2>
@@ -58,7 +58,14 @@
 &lt;li>&lt;strong>Monitoramento e Observabilidade:&lt;/strong> Prometheus, Grafana, Splunk, AppDynamics, CloudWatch.&lt;/li>
 &lt;li>&lt;strong>Containerização e Orquestração:&lt;/strong> Docker, Kubernetes.&lt;/li>
 &lt;li>&lt;strong>Ferramentas de Colaboração:&lt;/strong> Suite Atlassian (Jira, Confluence, Bitbucket), Git, plataformas CI/CD como GitHub, GitLab-CI e Jenkins.&lt;/li>
-&lt;li>&lt;strong>Certificações:&lt;/strong> AWS Developer &amp;amp; Solutions Architect Associate, Terraform Associate.&lt;/li>
+&lt;li>&lt;strong>Certificações:&lt;/strong>
+&lt;ul>
+&lt;li>AWS SysOps Associate.&lt;/li>
+&lt;li>AWS Developer Associate.&lt;/li>
+&lt;li>AWS Solutions Architect Associate.&lt;/li>
+&lt;li>Terraform Associate.&lt;/li>
+&lt;/ul>
+&lt;/li>
 &lt;/ul>
 &lt;hr>
 &lt;h2 id="como-gero-impacto">&lt;strong>Como Gero Impacto&lt;/strong>&lt;/h2>
@@ -94,4 +101,4 @@
 &lt;hr>
 &lt;h2 id="por-que-trabalhar-comigo">&lt;strong>Por Que Trabalhar Comigo&lt;/strong>&lt;/h2>
 &lt;p>Com um histórico comprovado de sucesso e paixão por resolver desafios técnicos complexos, trago uma combinação de experiência técnica, criatividade e colaboração para cada projeto. Meu foco é construir &lt;strong>soluções escaláveis, seguras e confiáveis&lt;/strong>, promovendo uma cultura de aprendizado e melhoria contínua.&lt;/p></description></item><item><title>Sobre</title><link>https://fedesg.github.io/mysite/pt/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://fedesg.github.io/mysite/pt/about/</guid><description>&lt;h3 id="olá--sou-o-fede">Olá 👋, sou o Fede&lt;/h3>
-&lt;p>Um argentino atualmente baseado em Dubai, trabalhando como &lt;strong>Engenheiro DevOps &amp;amp; SRE&lt;/strong>. Sou apaixonado por aprendizado contínuo e me concentro em áreas como &lt;strong>adoção de nuvem&lt;/strong>, &lt;strong>observabilidade&lt;/strong> e &lt;strong>administração de ferramentas&lt;/strong>. Como &lt;strong>consultor Atlassian&lt;/strong>, sou especializado em &lt;strong>migrações&lt;/strong>, &lt;strong>automação&lt;/strong> e &lt;strong>configuração de fluxos de trabalho&lt;/strong>. Também gosto de explorar temas como &lt;strong>aplicações de IA&lt;/strong>, &lt;strong>engenharia de prompts&lt;/strong>, &lt;strong>criptomoedas&lt;/strong> e &lt;strong>Web3&lt;/strong>, impulsionado pela curiosidade e pelo potencial dessas tecnologias para transformar indústrias.&lt;/p></description></item></channel></rss>
+&lt;p>Um argentino atualmente baseado em Dubai, trabalhando como &lt;strong>Engenheiro DevOps &amp;amp; SRE&lt;/strong>. Sou apaixonado por aprendizado contínuo e me concentro em áreas como &lt;strong>adoção de nuvem&lt;/strong>, &lt;strong>observabilidade&lt;/strong> e &lt;strong>administração de ferramentas&lt;/strong>. Como &lt;strong>consultor Atlassian&lt;/strong>, sou especializado em &lt;strong>migrações&lt;/strong>, &lt;strong>automação&lt;/strong> e &lt;strong>configuração de fluxos de trabalho&lt;/strong>. Também gosto de explorar temas como &lt;strong>aplicações de IA&lt;/strong>, &lt;strong>engenharia de prompts&lt;/strong>, &lt;strong>crypto&lt;/strong> e &lt;strong>Web3&lt;/strong>, impulsionado pela curiosidade e pelo potencial dessas tecnologias para transformar indústrias.&lt;/p></description></item></channel></rss>
