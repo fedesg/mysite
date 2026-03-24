@@ -89,7 +89,7 @@ params:
   profileMode:
     enabled: true
     title: "Fede" # optional default will be site title
-    subtitle: "DevOps & SRE | Atlassian Consultant | AI, Crypto & Web3 enthusiast."
+    subtitle: "DevOps & SRE | Atlassian Consultant | AI enthusiast."
     imageUrl: "https://avatars.githubusercontent.com/u/6987953?v=4" # optional
     imageTitle: "@fedesg" # optional
     imageWidth: 120 # custom size

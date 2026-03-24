@@ -6,7 +6,7 @@ title = 'Acerca'
 
 ### Hola 👋, soy Fede
 
-Un argentino actualmente radicado en Dubái, trabajando como **Ingeniero DevOps & SRE**. Me apasiona el aprendizaje continuo y me enfoco en áreas como la **adopción de la nube**, la **observabilidad** y la **administración de herramientas**. Como **consultor de Atlassian**, me especializo en **migraciones**, **automatización** y **configuración de flujos de trabajo**. También disfruto explorando temas como las **aplicaciones de inteligencia artificial**, la **ingeniería de prompts**, **crypto** y **Web3**, impulsado por la curiosidad y el potencial de estas tecnologías para transformar industrias.
+Un argentino actualmente radicado en Dubái, trabajando como **Ingeniero DevOps & SRE**. Me apasiona el aprendizaje continuo y me enfoco en áreas como la **adopción de la nube**, la **observabilidad** y la **administración de herramientas**. Como **consultor de Atlassian**, me especializo en **migraciones**, **automatización** y **configuración de flujos de trabajo**. También disfruto explorando temas como las **aplicaciones de inteligencia artificial**, la **ingeniería de prompts**, impulsado por la curiosidad y el potencial de estas tecnologías para transformar industrias.
 
 - 🗣 **DevOps** es cultura + procesos + herramientas - no lo puedes comprar; tienes que adoptarlo.
 - 🚀 Actualmente estoy ampliando mis conocimientos en **herramientas de IA** y **ingeniería de prompts**.
